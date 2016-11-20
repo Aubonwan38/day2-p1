@@ -1,0 +1,17 @@
+{
+  "name": "day2-p1",
+  "homepage": "https://github.com/Aubonwan38/day2-p1",
+  "authors": [
+    "AubonwanSaunwan <Aubonwan_oum8hotmail.om>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
